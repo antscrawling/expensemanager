@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "expensemanager",
+  "main": "expensemanager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antscrawling/expensemanager.git"
+  },
+  "keywords": [
+    "expense"
+  ],
+  "author": "Jose Ibay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antscrawling/expensemanager/issues"
+  },
+  "homepage": "https://github.com/antscrawling/expensemanager#readme"
+}
